@@ -7,4 +7,3 @@ Hamzeh Abu Qamar is an honors senior student, majoring in Electrical Engineering
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/hamzeh-abu-qamar-034605218/)
-[CV](file:///C:/Users/sabuqamar/Desktop/Hamzeh/HamzehAbuQamarCV.pdf)
