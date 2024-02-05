@@ -6,21 +6,23 @@ Click here: [CV](HamzehAbuQamarCV.pdf/)
 
 ## Projects
 ### No2Pollution: A Guide to Analyze Air Quality via Level-2 Satellite Imagery
+Provides a comprehensive guide to analyze emissions using Level-2 satellite imagery & adaptable codebase that extends to regions where resources for advanced monitoring technologies may be limited
+This [diagram](flow (1).png/) shows the flowchart of our analysis 
+
 The [paper](Papers/No2Pollution_EuCNC24.pdf) is currently under review for EuCNC & 6G Summit conference
 
 
- Jan. 25th , 2024
-• K. Mohammed, H. A. Qamar, R. A. Khalil and N. Saeed, "Regional CubeSat Communication
-and Constellation Design Evaluation," 2023 International Conference on Microelectronics
-(ICM), Abu Dhabi, United Arab Emirates, 2023, pp. 284-287, doi:10.1109/ICM60448.2023.10378915.
+### Regional CubeSat Communication and Constellation Design Evaluation
+Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures.
 
-  [Paper Link](https://www.researchgate.net/publication/377202483_Regional_CubeSat_Communication_and_Constellation_Design_Evaluation)
+The [paper](Papers/CubeSat_IEEE ICM2023.pdf) has been published on IEEE Xplore
 
-  [Paper PDF](Papers/CubeSat_IEEE ICM2023.pdf)
+### SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations
+Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. 
 
-• [“SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations”](Papers/SatNetSpaceSim_EuCNC24.pdf)
+The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) is currently under review for EuCNC & 6G Summit conference
 
-  Under Review – EuCNC & 6G Summit, Jan. 8th, 2024
+
 
 • “Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation” 
 
