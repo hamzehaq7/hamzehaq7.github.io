@@ -17,7 +17,7 @@ and Constellation Design Evaluation," 2023 International Conference on Microelec
 2. [“No2Pollution: A Guide to Analyze Air Quality via Level-2 Satellite Imagery”](Papers/No2Pollution_EuCNC24.pdf)
 Under Review – EuCNC & 6G Summit, Jan. 25th , 2024
 
-3. [“Analyzing Coverage and Link Budgets in Mega-Constellations of Small Satellites”](Papers/SatNetSpaceSim_EuCNC24.pdf)
+3. [“SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations”](Papers/SatNetSpaceSim_EuCNC24.pdf)
 Under Review – EuCNC & 6G Summit, Jan. 8th, 2024
 
 4. “Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation” 
