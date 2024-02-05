@@ -1,6 +1,5 @@
 
 
-# Hamzeh Abu Qamar 
 ![Image 1](IMG_3700.jpg/)
 
 ## About
