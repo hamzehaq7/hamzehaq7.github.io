@@ -15,6 +15,7 @@ This [diagram](flow (1).png) shows the flowchart of our analysis
 
 The [paper](Papers/No2Pollution_EuCNC24.pdf) is currently under review for EuCNC & 6G Summit conference
 
+![diagram](flow (1).png)
 #### Regional CubeSat Communication and Constellation Design Evaluation
 Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures.
 
