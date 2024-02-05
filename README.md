@@ -4,7 +4,12 @@ Hamzeh Abu Qamar is an honors senior student, majoring in Electrical Engineering
 
 Click here: [CV](HamzehAbuQamarCV.pdf/)
 
-## Publications
+## Projects
+### No2Pollution: A Guide to Analyze Air Quality via Level-2 Satellite Imagery
+The [paper](Papers/No2Pollution_EuCNC24.pdf) is currently under review for EuCNC & 6G Summit conference
+
+
+ Jan. 25th , 2024
 • K. Mohammed, H. A. Qamar, R. A. Khalil and N. Saeed, "Regional CubeSat Communication
 and Constellation Design Evaluation," 2023 International Conference on Microelectronics
 (ICM), Abu Dhabi, United Arab Emirates, 2023, pp. 284-287, doi:10.1109/ICM60448.2023.10378915.
@@ -12,10 +17,6 @@ and Constellation Design Evaluation," 2023 International Conference on Microelec
   [Paper Link](https://www.researchgate.net/publication/377202483_Regional_CubeSat_Communication_and_Constellation_Design_Evaluation)
 
   [Paper PDF](Papers/CubeSat_IEEE ICM2023.pdf)
-
-• [“No2Pollution: A Guide to Analyze Air Quality via Level-2 Satellite Imagery”](Papers/No2Pollution_EuCNC24.pdf)
-
-  Under Review – EuCNC & 6G Summit, Jan. 25th , 2024
 
 • [“SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations”](Papers/SatNetSpaceSim_EuCNC24.pdf)
 
