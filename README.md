@@ -39,5 +39,7 @@ Presented – IEEE Conference on Systems and Control (ICSC), Dec. 21st, 2023
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/hamzeh-abu-qamar-034605218/)
+[CV](HamzehAbuQamarCV.pdf/)
 
+Updated Feb 5th, 2024
 
