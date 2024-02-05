@@ -22,14 +22,20 @@ Presented – IEEE Conference on Systems and Control (ICSC), Dec. 21st, 2023
 
 ## Skills
 • Python, AI, ML Programming
+
 • Raspberry Pi & Arduino
+
 • MATLAB and C++
+
 • Public speaking, critical thinking, leadership
+
 • Project management
 
 ## Socials
 • Cisco CCNA: Introduction to Networks
+
 • Google Project Management: Professional Certificate
+
 • IBM Data Science (soon!)
 
 ## Socials
