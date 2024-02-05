@@ -23,14 +23,11 @@ Introduced SatNet SpaceSim, a simulator and a graphical user interface developed
 The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) is currently under review for EuCNC & 6G Summit conference
 
 
+### Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation
+The paper is currently under review for Elsevier Measurement journal publication, as well as a patent.
 
-• “Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation” 
-
-  Under Review – Elsevier Measurement, Jan. 5th, 2024
-
-• [“Clot Monitoring Through Electromechanical Analysis”](Papers/Clot Monitoring_IEEE ICSC2023.pdf)
-  
-  Presented – IEEE Conference on Systems and Control (ICSC), Dec. 21st, 2023
+### Clot Monitoring Through Electromechanical Analysis
+The [paper](Papers/Clot Monitoring_IEEE ICSC2023.pdf) was presented at the IEEE Conference on Systems and Control (ICSC) in Tunis last December, will be published on IEEE Xplore soon. 
 
 ## Skills
 • Python, AI, ML Programming
