@@ -7,7 +7,7 @@ Click here: [CV](HamzehAbuQamarCV.pdf/)
 ![Image 1](IMG_3700.jpg/)
 
 ## Publications
-1. K. Mohammed, H. A. Qamar, R. A. Khalil and N. Saeed, "Regional CubeSat Communication
+• K. Mohammed, H. A. Qamar, R. A. Khalil and N. Saeed, "Regional CubeSat Communication
 and Constellation Design Evaluation," 2023 International Conference on Microelectronics
 (ICM), Abu Dhabi, United Arab Emirates, 2023, pp. 284-287, doi:10.1109/ICM60448.2023.10378915.
 
