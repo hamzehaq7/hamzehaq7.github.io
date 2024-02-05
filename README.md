@@ -1,3 +1,12 @@
+<script src="midnight.jquery.min.js"></script>
+<script>
+// Start midnight
+$(document).ready(function(){
+  // Change this to the correct selector.
+  $('nav.fixed').midnight();
+});
+</script>
+
 Welcome to my page, enjoy!
 
 Hamzeh Abu Qamar is an honors senior student, majoring in Electrical Engineering at the United Arab Emirates University. Due to his immense potential, he was granted the IEEE Undergraduate Research Scholarship & the MBZ Scholarship at NYU Abu Dhabi. Hamzeh also had the privilege of interning at KAUST, one of leading research institutions in the world. He also engaged in discussions and debates at COP28 as a Youth 4 Sustainability Ambassador. He is proactive in the community, always participating in hackathons and competitions to provide him with extracurricular skills. For graduate studies, he wishes to incorporate AI, ML, and 6G communications into sustainability.
