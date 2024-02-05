@@ -11,7 +11,7 @@ The paper is currently under review for Elsevier Measurement journal publication
 #### No2Pollution: A Guide to Analyze Air Quality via Level-2 Satellite Imagery
 Provides a comprehensive guide to analyze emissions using Level-2 satellite imagery & adaptable codebase that extends to regions where resources for advanced monitoring technologies may be limited. 
 
-This [diagram](flow (1).png/) shows the flowchart of our analysis 
+This [diagram](flow (1).png) shows the flowchart of our analysis 
 
 The [paper](Papers/No2Pollution_EuCNC24.pdf) is currently under review for EuCNC & 6G Summit conference
 
