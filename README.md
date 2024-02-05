@@ -5,28 +5,29 @@ Hamzeh Abu Qamar is an honors senior student, majoring in Electrical Engineering
 Click here: [CV](HamzehAbuQamarCV.pdf/)
 
 ## Projects
-### No2Pollution: A Guide to Analyze Air Quality via Level-2 Satellite Imagery
-Provides a comprehensive guide to analyze emissions using Level-2 satellite imagery & adaptable codebase that extends to regions where resources for advanced monitoring technologies may be limited
+#### Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation
+The paper is currently under review for Elsevier Measurement journal publication, as well as a patent.
+
+#### No2Pollution: A Guide to Analyze Air Quality via Level-2 Satellite Imagery
+Provides a comprehensive guide to analyze emissions using Level-2 satellite imagery & adaptable codebase that extends to regions where resources for advanced monitoring technologies may be limited. 
+
 This [diagram](flow (1).png/) shows the flowchart of our analysis 
 
 The [paper](Papers/No2Pollution_EuCNC24.pdf) is currently under review for EuCNC & 6G Summit conference
 
-
-### Regional CubeSat Communication and Constellation Design Evaluation
+#### Regional CubeSat Communication and Constellation Design Evaluation
 Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures.
 
 The [paper](Papers/CubeSat_IEEE ICM2023.pdf) has been published on IEEE Xplore
 
-### SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations
+#### SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations
 Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. 
 
 The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) is currently under review for EuCNC & 6G Summit conference
 
+#### Clot Monitoring Through Electromechanical Analysis
+Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations.
 
-### Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation
-The paper is currently under review for Elsevier Measurement journal publication, as well as a patent.
-
-### Clot Monitoring Through Electromechanical Analysis
 The [paper](Papers/Clot Monitoring_IEEE ICSC2023.pdf) was presented at the IEEE Conference on Systems and Control (ICSC) in Tunis last December, will be published on IEEE Xplore soon. 
 
 ## Skills
