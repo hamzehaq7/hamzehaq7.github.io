@@ -41,8 +41,11 @@ Presented – IEEE Conference on Systems and Control (ICSC), Dec. 21st, 2023
 
 ## Hobbies & Interests
 • Sports – most prominently, bodybuilding, soccer, and volleyball
-• Reading books & online forums about business, entrepreneurship, and politics
+
+• Reading books & online forums about business, entrepreneurship, history, and politics
+
 • Traveling to experience life & get exposed to different cultures
+
 • Analyzing trends & active investing in the stock market
 
 ## Socials
@@ -51,9 +54,11 @@ Presented – IEEE Conference on Systems and Control (ICSC), Dec. 21st, 2023
 [Github Rep.](https://github.com/hamzehaq7)
 
 ## Contact
-I have alot of emails
-[Gmail](hamzehabuqamar7@gmail.com)
-[Mobile Number](+971561227914)
+• Gmail: hamzehabuqamar7@gmail.com
+
+• Uni Email: 202050889@uaeu.ac.ae
+
+• Mobile Number: +971561227914
 
 
 Updated Feb 5th, 2024
