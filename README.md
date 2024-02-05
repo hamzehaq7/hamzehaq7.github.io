@@ -33,10 +33,6 @@ The [paper](Papers/Clot Monitoring_IEEE ICSC2023.pdf) was presented at the IEEE 
 #### Non-invasive continuous blood pressure measurement using deep learning
 Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public datasets (MIMIC & BCG). Investigated practical and innovative tools to continuously monitor blood pressure.
 
-
-## Experiences
-
-
 ## Skills
 • Python, AI, ML Programming
 
