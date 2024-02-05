@@ -1,6 +1,7 @@
 
 
 # Hamzeh Abu Qamar 
+![Image 1](IMG_3700.jpg/)
 
 ## About
 Hamzeh Abu Qamar is an honors senior student, majoring in Electrical Engineering at the United Arab Emirates University. Due to his immense potential, he was granted the IEEE Undergraduate Research Scholarship & the MBZ Scholarship at NYU Abu Dhabi. He also had the privilege of interning at KAUST, one of leading research institutions in the world. He also engaged in discussions and debates at COP28 as a Youth 4 Sustainability Ambassador. He is passionate about AI, ML, and 6G communications for sustainable applications.
@@ -8,4 +9,4 @@ Hamzeh Abu Qamar is an honors senior student, majoring in Electrical Engineering
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/hamzeh-abu-qamar-034605218/)
 
-![Image 1](IMG_3700.jpg/)
+
