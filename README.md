@@ -54,12 +54,10 @@ Presented – IEEE Conference on Systems and Control (ICSC), Dec. 21st, 2023
 [Github Rep.](https://github.com/hamzehaq7)
 
 ## Contact
-• Gmail: hamzehabuqamar7@gmail.com
-
-• Uni Email: 202050889@uaeu.ac.ae
+• Email: hamzehabuqamar7@gmail.com
 
 • Mobile Number: +971561227914
 
 
-### Last Updated Feb 5th, 2024
+#### Last Updated Feb 5th, 2024
 
