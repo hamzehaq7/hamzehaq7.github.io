@@ -4,6 +4,7 @@
 
 ## About
 Hamzeh Abu Qamar is an honors senior student, majoring in Electrical Engineering at the United Arab Emirates University. Due to his immense potential, he was granted the IEEE Undergraduate Research Scholarship & the MBZ Scholarship at NYU Abu Dhabi. Hamzeh also had the privilege of interning at KAUST, one of leading research institutions in the world. He also engaged in discussions and debates at COP28 as a Youth 4 Sustainability Ambassador. He is proactive in the community, always participating in hackathons and competitions to provide him with extracurricular skills. For graduate studies, he wishes to incorporate AI, ML, and 6G communications for sustainable applications.
+
 Click here: [CV](HamzehAbuQamarCV.pdf/)
 
 ## Publications
@@ -40,6 +41,7 @@ Presented – IEEE Conference on Systems and Control (ICSC), Dec. 21st, 2023
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/hamzeh-abu-qamar-034605218/)
+
 [Github Rep.](https://github.com/hamzehaq7)
 
 Updated Feb 5th, 2024
