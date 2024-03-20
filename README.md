@@ -15,7 +15,7 @@ Click here: [CV](HamzehAbuQamarCV.pdf/)
 
 ## Projects
 #### Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation
-The paper is currently under review for Elsevier Measurement journal publication, as well as a patent.
+The paper is currently under review for MDPI Sensors journal publication.
 
 #### No2Pollution: A Guide to Analyze Air Quality via Level-2 Satellite Imagery
 Provides a comprehensive guide to analyze emissions using Level-2 satellite imagery & adaptable codebase that extends to regions where resources for advanced monitoring technologies may be limited. 
@@ -37,7 +37,7 @@ The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) is currently under review for EuC
 #### Clot Monitoring Through Electromechanical Analysis
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations.
 
-The [paper](Papers/Clot Monitoring_IEEE ICSC2023.pdf) was presented at the IEEE Conference on Systems and Control (ICSC) in Tunis last December, will be published on IEEE Xplore soon. 
+The [paper](Papers/Clot Monitoring_IEEE ICSC2023.pdf) has been published on IEEE Xplore
 
 #### Non-invasive continuous blood pressure measurement using deep learning
 Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public datasets (MIMIC & BCG). Investigated practical and innovative tools to continuously monitor blood pressure.
@@ -80,5 +80,5 @@ Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public d
 • Mobile Number: +971561227914
 
 
-##### Last Updated Feb 5th, 2024
+##### Last Updated March 20th, 2024
 
