@@ -80,5 +80,5 @@ Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public d
 • Mobile Number: +971561227914
 
 
-##### Last Updated March 20th, 2024
+##### Last Updated May 1st, 2024
 
