@@ -9,7 +9,7 @@ $(document).ready(function(){
 
 ## Welcome to my page, enjoy!
 
-Hamzeh Abu Qamar, an esteemed recent graduate, holds a Bachelor's degree in Electrical Engineering from the United Arab Emirates University. Recognized for his exceptional talents, he was awarded both the IEEE Undergraduate Research Scholarship and the prestigious MBZ Scholarship at NYU Abu Dhabi. During his academic journey, he completed an enriching internship at KAUST, a renowned global research institution. As a fervent advocate for sustainability, Hamzeh participated in discussions and debates at COP28 in his role as a Masdar Youth 4 Sustainability Ambassador. He is passionate about AI, ML, and 6G communications for sustainable applications.
+Hamzeh Abu Qamar, an esteemed recent graduate, holds a Bachelor's degree in Electrical Engineering from the United Arab Emirates University. Recognized for his exceptional talents, he was awarded both the IEEE Undergraduate Research Scholarship and the prestigious MBZ Scholarship at NYU Abu Dhabi. During his academic journey, he completed an enriching internship at KAUST, a renowned global research institution. As a fervent advocate for sustainability, Hamzeh participated in discussions and debates at COP28 in his role as a Masdar Youth 4 Sustainability Ambassador. Having showcased his graduation project at international conferences in Belgium and Oman, he is passionate about integrating AI and ML into the realm of 6G communications.
 
 Click here: [CV](HamzehAbuQamarCV.pdf/)
 
@@ -27,17 +27,17 @@ The [paper](Papers/No2Pollution_EuCNC24.pdf) is currently under review..
 #### Regional CubeSat Communication and Constellation Design Evaluation
 Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures.
 
-The [paper](Papers/CubeSat_IEEE ICM2023.pdf) has been published on IEEE Xplore
+The [paper](Papers/CubeSat_IEEE ICM2023.pdf) has been published on IEEE Xplore.
 
 #### SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations
 Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. 
 
-The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been accepted for presentation at the EuCNC & 6G Summit conference in Antwerp, Belgium.
+The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been presented at the EuCNC & 6G Summit conference in Antwerp, Belgium.
 
 #### Clot Monitoring Through Electromechanical Analysis
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations.
 
-The [paper](Papers/Clot Monitoring_IEEE ICSC2023.pdf) has been published on IEEE Xplore
+The [paper](Papers/Clot Monitoring_IEEE ICSC2023.pdf) has been published on IEEE Xplore.
 
 #### Non-invasive continuous blood pressure measurement using deep learning
 Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public datasets (MIMIC & BCG). Investigated practical and innovative tools to continuously monitor blood pressure.
@@ -80,5 +80,5 @@ Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public d
 • Mobile Number: +971561227914
 
 
-##### Last Updated May 1st, 2024
+##### Last Updated June 10th, 2024
 
