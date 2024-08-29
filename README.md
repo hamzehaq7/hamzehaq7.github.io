@@ -9,7 +9,7 @@ $(document).ready(function(){
 
 ## Welcome to my page, enjoy!
 
-Hamzeh Abu Qamar, an esteemed recent graduate, holds a Bachelor's degree in Electrical Engineering from the United Arab Emirates University. Recognized for his exceptional talents, he was awarded both the IEEE Undergraduate Research Scholarship and the prestigious MBZ Scholarship at NYU Abu Dhabi. During his academic journey, he completed an enriching internship at KAUST, a renowned global research institution. As a fervent advocate for sustainability, Hamzeh participated in discussions and debates at COP28 in his role as a Masdar Youth 4 Sustainability Ambassador. Having showcased his graduation project at international conferences in Belgium and Oman, he is passionate about integrating AI and ML into the realm of 6G communications.
+Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Master's in Technology Innovation and Entrepreneurship at KAUST. His academic excellence and innovative mindset have earned him the IEEE Undergraduate Research Scholarship and the prestigious MBZ Scholarship at NYU Abu Dhabi. A passionate advocate for sustainability, Hamzeh represented Masdar’s Youth 4 Sustainability program at COP28, actively engaging in high-level discussions on global environmental issues. As an aspiring entrepreneur, he aims to leverage AI and ML to address sustainability challenges in the GCC region.
 
 Click here: [CV](HamzehAbuQamarCV.pdf/)
 
@@ -77,8 +77,8 @@ Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public d
 ## Contact
 • Email: hamzehabuqamar7@gmail.com
 
-• Mobile Number: +971561227914
+• Mobile Number: +971561227914, +966565116760
 
 
-##### Last Updated June 10th, 2024
+##### Last Updated Sept. 1st, 2024
 
