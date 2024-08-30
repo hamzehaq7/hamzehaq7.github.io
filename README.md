@@ -4,7 +4,7 @@
 
 Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Master's in Technology Innovation and Entrepreneurship at KAUST. His academic excellence and innovative mindset have earned him the IEEE Undergraduate Research Scholarship and the prestigious MBZ Scholarship at NYU Abu Dhabi. A passionate advocate for sustainability, Hamzeh represented Masdar’s Youth 4 Sustainability program at COP28, actively engaging in high-level discussions on global environmental issues. As an aspiring entrepreneur, he aims to leverage AI and ML to address sustainability challenges in the GCC region.
 
-[**Download my CV**](HamzehAbuQamarCV.pdf)
+<a href="HamzehAbuQamarCV.pdf" style="color:#008793; font-weight:bold;">Download my CV</a>
 
 ## Projects
 
