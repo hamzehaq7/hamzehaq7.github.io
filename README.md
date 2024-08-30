@@ -17,6 +17,9 @@ Created a simulator of small satellite constellations that will, in advance of t
 ### SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations
 Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been published on IEEE Xplore.
 
+### [SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations](Papers/SatNetSpaceSim_EuCNC24.pdf)
+Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been published on IEEE Xplore.
+
 ### Clot Monitoring Through Electromechanical Analysis
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations. The [paper](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
 
