@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gallery/headshot.jpg" alt="Profile Picture" width="200">
+  <img src="Gallery/headshot.jpg" alt="Profile Picture" width="300">
 </p>
 
 ---
@@ -12,7 +12,8 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 
 <p align="center">
   <a href="HamzehAbuQamarCV.pdf" style="color:#ffffff; background-color:#008793; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold; margin-right: 10px;">Download My CV</a>
-  <a href="#gallery" style="color:#ffffff; background-color:#004d7a; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold;">Go to Gallery</a>
+  <a href="#gallery" style="color:#ffffff; background-color:#004d7a; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold; margin-right: 10px;">Go to Gallery</a>
+  <a href="https://www.linkedin.com/in/hamzeh-abu-qamar-034605218/" style="color:#ffffff; background-color:#0077b5; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold;">LinkedIn</a>
 </p>
 
 ---
@@ -71,52 +72,47 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 <p align="center">
   <img src="Gallery/sultan.jpg" width="200" />
-  <br><span style="color:#004d7a;">Picture with HE Dr. Sultan Al Jaber, CEO of ADNOC</span>
-</p>
-
-<p align="center">
-  <img src="Gallery/sultan.jpg" width=auto />
-  <br><span style="color:#004d7a;">Picture with HE Dr. Sultan Al Jaber, CEO of ADNOC</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Picture with HE Dr. Sultan Al Jaber, CEO of ADNOC</span>
 </p>
 
 <p align="center">
   <img src="Gallery/albania.jpg" width="200" />
-  <br><span style="color:#004d7a;">Meeting with HE Bora Muzhaqi, Youth Minister of Albani</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Meeting with HE Bora Muzhaqi, Youth Minister of Albania</span>
 </p>
 
 <p align="center">
   <img src="Gallery/boris.jpg" width="200" />
-  <br><span style="color:#004d7a;">Workshop with Boris Johnson, former PM of UK</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Workshop with Boris Johnson, former PM of UK</span>
 </p>
 
 <p align="center">
   <img src="Gallery/cop28.jpg" width="200" />
-  <br><span style="color:#004d7a;">Presenting hackathon results to HE Sara Al Amiri, UAE's Education Minister, at COP28</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Presenting hackathon results to HE Sara Al Amiri, UAE's Education Minister, at COP28</span>
 </p>
 
 <p align="center">
   <img src="Gallery/eucnc.jpeg" width="200" />
-  <br><span style="color:#004d7a;">Presenting conference paper at EuCNC conference in Antwerp, Belgium</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Presenting conference paper at EuCNC conference in Antwerp, Belgium</span>
 </p>
 
 <p align="center">
   <img src="Gallery/finance.jpg" width="200" />
-  <br><span style="color:#004d7a;">Won 1st place at the Dubai Dept. of Finance's AI Hackathon</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Won 1st place at the Dubai Dept. of Finance's AI Hackathon</span>
 </p>
 
 <p align="center">
   <img src="Gallery/muscat.jpeg" width="200" />
-  <br><span style="color:#004d7a;">Presenting research findings in student gathering in Muscat, Oman</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Presenting research findings in student gathering in Muscat, Oman</span>
 </p>
 
 <p align="center">
   <img src="Gallery/pwc.jpg" width="200" />
-  <br><span style="color:#004d7a;">Participated in a climate fresk with PwC at COP28</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Participated in a climate fresk with PwC at COP28</span>
 </p>
 
 <p align="center">
   <img src="Gallery/ses.jpeg" width="200" />
-  <br><span style="color:#004d7a;">Delegate at the Student Energy Summit at New York University Abu Dhabi</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Delegate at the Student Energy Summit at New York University Abu Dhabi</span>
 </p>
 
 ---
