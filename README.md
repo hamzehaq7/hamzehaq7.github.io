@@ -17,13 +17,6 @@ Click here: [CV](HamzehAbuQamarCV.pdf/)
 #### Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation
 The paper is currently under review (major revisions) for MDPI Sensors journal publication.
 
-#### No2Pollution: A Guide to Analyze Air Quality via Level-2 Satellite Imagery
-Provides a comprehensive guide to analyze emissions using Level-2 satellite imagery & adaptable codebase that extends to regions where resources for advanced monitoring technologies may be limited. 
-
-This [diagram](flow (1).png) shows the flowchart of our analysis 
-
-The [paper](Papers/No2Pollution_EuCNC24.pdf) is currently under review..
-
 #### Regional CubeSat Communication and Constellation Design Evaluation
 Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures.
 
@@ -32,7 +25,7 @@ The [paper](Papers/CubeSat_IEEE ICM2023.pdf) has been published on IEEE Xplore.
 #### SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations
 Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. 
 
-The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been presented at the EuCNC & 6G Summit conference in Antwerp, Belgium.
+The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been published on IEEE Xplore.
 
 #### Clot Monitoring Through Electromechanical Analysis
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations.
@@ -47,11 +40,11 @@ Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public d
 
 • Raspberry Pi & Arduino
 
-• MATLAB and C++
+• MATLAB & C++
 
-• Public speaking, critical thinking, leadership
+• Public Speaking, Critical Thinking, Leadership
 
-• Project management
+• Entrepreneurship, Project Management
 
 ## Certificates
 • Cisco CCNA: Introduction to Networks
@@ -75,7 +68,7 @@ Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public d
 [Github Rep.](https://github.com/hamzehaq7)
 
 ## Contact
-• Email: hamzehabuqamar7@gmail.com
+• Email: hamzehabuqamar7@gmail.com, hamzeh.abuqamar@kaust.edu.sa
 
 • Mobile Number: +971561227914, +966565116760
 
