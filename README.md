@@ -70,7 +70,7 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 ## <span style="color:#004d7a;" id="gallery">Gallery</span>
 
 <p align="center">
-  <img src="Gallery/abylai.jpg" width="200" />
+  <img src="Gallery/sultan.jpg" width="200" />
   <img src="Gallery/albania.jpg" width="200" />
   <img src="Gallery/boris.jpg" width="200" />
 </p>
@@ -85,7 +85,6 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
   <img src="Gallery/muscat.jpeg" width="200" />
   <img src="Gallery/pwc.jpg" width="200" />
   <img src="Gallery/ses.jpeg" width="200" />
-  <img src="Gallery/sultan.jpg" width="200" />
 </p>
 
 ---
