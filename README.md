@@ -1,6 +1,6 @@
 # <span style="color:#004d7a;">Hamzeh Abu Qamar</span>
 
-![Profile Picture](IMG3700.jpg)
+![Profile Picture](IMG_3700.jpg)
 
 ---
 
