@@ -74,4 +74,20 @@ Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public d
 
 ---
 
+## <span style="color:#004d7a;">Gallery</span>
+
+<p align="center">
+  <img src="path/to/image1.jpg" width="200" />
+  <img src="path/to/image2.jpg" width="200" />
+  <img src="path/to/image3.jpg" width="200" />
+</p>
+
+<p align="center">
+  <img src="path/to/image4.jpg" width="200" />
+  <img src="path/to/image5.jpg" width="200" />
+  <img src="path/to/image6.jpg" width="200" />
+</p>
+
+---
+
 <p style="text-align: center; color: #888888;">Last Updated: Sept. 1st, 2024</p>
