@@ -1,5 +1,3 @@
-# <span style="color:#004d7a;">Hamzeh Abu Qamar</span>
-
 <p align="center">
   <img src="IMG_3700.jpg" alt="Profile Picture" width="200">
 </p>
@@ -22,7 +20,7 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 ## <span style="color:#004d7a;">Projects</span>
 
 ### Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation
-*The paper is currently under review (major revisions) for MDPI Sensors journal publication.*
+The paper is currently under review (major revisions) for MDPI Sensors journal publication.
 
 ### Regional CubeSat Communication and Constellation Design Evaluation
 Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures. The [paper](Papers/CubeSat_IEEE%20ICM2023.pdf) has been published on IEEE Xplore.
@@ -32,9 +30,6 @@ Introduced SatNet SpaceSim, a simulator and a graphical user interface developed
 
 ### Clot Monitoring Through Electromechanical Analysis
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations. The [paper](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
-
-### Non-invasive Continuous Blood Pressure Measurement Using Deep Learning
-Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public datasets (MIMIC & BCG). Investigated practical and innovative tools to continuously monitor blood pressure.
 
 ---
 
