@@ -1,4 +1,6 @@
-# <span style="color:#004d7a;">Hamzeh Abu Qamar - Portfolio</span>
+# <span style="color:#004d7a;">Hamzeh Abu Qamar</span>
+
+![Profile Picture](path/to/your-picture.jpg)
 
 ---
 
@@ -25,6 +27,9 @@ Introduced SatNet SpaceSim, a simulator and a graphical user interface developed
 
 ### Clot Monitoring Through Electromechanical Analysis
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations. The [paper](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
+
+### Non-invasive Continuous Blood Pressure Measurement Using Deep Learning
+Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public datasets (MIMIC & BCG). Investigated practical and innovative tools to continuously monitor blood pressure.
 
 ---
 
