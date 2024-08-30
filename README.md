@@ -71,20 +71,47 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 <p align="center">
   <img src="Gallery/sultan.jpg" width="200" />
+  <br><span style="color:#004d7a;">Sultan's Portrait</span>
+</p>
+
+<p align="center">
   <img src="Gallery/albania.jpg" width="200" />
+  <br><span style="color:#004d7a;">Scenic View in Albania</span>
+</p>
+
+<p align="center">
   <img src="Gallery/boris.jpg" width="200" />
+  <br><span style="color:#004d7a;">Meeting with Boris</span>
 </p>
 
 <p align="center">
   <img src="Gallery/cop28.jpg" width="200" />
+  <br><span style="color:#004d7a;">At COP28 Conference</span>
+</p>
+
+<p align="center">
   <img src="Gallery/eucnc.jpeg" width="200" />
+  <br><span style="color:#004d7a;">EU-CNC Event</span>
+</p>
+
+<p align="center">
   <img src="Gallery/finance.jpg" width="200" />
+  <br><span style="color:#004d7a;">Finance Seminar</span>
 </p>
 
 <p align="center">
   <img src="Gallery/muscat.jpeg" width="200" />
+  <br><span style="color:#004d7a;">Muscat Trip</span>
+</p>
+
+<p align="center">
   <img src="Gallery/pwc.jpg" width="200" />
+  <br><span style="color:#004d7a;">With PwC Team</span>
+</p>
+
+<p align="center">
   <img src="Gallery/ses.jpeg" width="200" />
+  <br><span style="color:#004d7a;">SES Workshop</span>
 </p>
 
 ---
