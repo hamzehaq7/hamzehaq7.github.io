@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gallery/headshot.jpg" alt="Profile Picture" width="300">
+  <img src="Gallery/headshot.jpg" alt="Profile Picture" width="400">
 </p>
 
 ---
@@ -72,7 +72,7 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 <p align="center">
   <img src="Gallery/cop28.jpg" width="200" />
-  <br><span style="color:#004d7a; font-size: 12px;">Presenting hackathon results to HE Sara Al Amiri, UAE's Education Minister, at COP28</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Presenting COP28 Hackathon results to HE Sara Al Amiri, Education Minister of UAE</span>
 </p>
 
 <p align="center">
@@ -87,12 +87,12 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 <p align="center">
   <img src="Gallery/muscat.jpeg" width="200" />
-  <br><span style="color:#004d7a; font-size: 12px;">Presenting research findings in student gathering in Muscat, Oman</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Presenting research findings at the student gathering in Muscat, Oman</span>
 </p>
 
 <p align="center">
   <img src="Gallery/pwc.jpg" width="200" />
-  <br><span style="color:#004d7a; font-size: 12px;">Participated in a climate fresk with PwC at COP28</span>
+  <br><span style="color:#004d7a; font-size: 12px;">Participated in a climate challenge with PwC at COP28</span>
 </p>
 
 <p align="center">
