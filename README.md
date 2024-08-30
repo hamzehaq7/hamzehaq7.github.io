@@ -12,12 +12,14 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 
 <a href="HamzehAbuQamarCV.pdf" style="color:#ffffff; background-color:#008793; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold;">Download My CV</a>
 
+<a href="#gallery" style="color:#ffffff; background-color:#004d7a; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold; margin-left: 10px;">Go to Gallery</a>
+
 ---
 
 ## <span style="color:#004d7a;">Projects</span>
 
 ### Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation
-The paper is currently under review (major revisions) for MDPI Sensors journal publication.
+*The paper is currently under review (major revisions) for MDPI Sensors journal publication.*
 
 ### Regional CubeSat Communication and Constellation Design Evaluation
 Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures. The [paper](Papers/CubeSat_IEEE%20ICM2023.pdf) has been published on IEEE Xplore.
@@ -27,6 +29,9 @@ Introduced SatNet SpaceSim, a simulator and a graphical user interface developed
 
 ### Clot Monitoring Through Electromechanical Analysis
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations. The [paper](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
+
+### Non-invasive Continuous Blood Pressure Measurement Using Deep Learning
+Evaluated 3 deep learning models (WGAN, DCT/FFNN, UNet Architecture) on public datasets (MIMIC & BCG). Investigated practical and innovative tools to continuously monitor blood pressure.
 
 ---
 
@@ -64,14 +69,7 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 ---
 
-## <span style="color:#004d7a;">Contact</span>
-
-- **Email:** hamzehabuqamar7@gmail.com, hamzeh.abuqamar@kaust.edu.sa
-- **Mobile:** +971561227914, +966565116760
-
----
-
-## <span style="color:#004d7a;">Gallery</span>
+## <span style="color:#004d7a;" id="gallery">Gallery</span>
 
 <p align="center">
   <img src="path/to/image1.jpg" width="200" />
