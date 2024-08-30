@@ -2,3 +2,5 @@ title: Hamzeh Abu Qamar
 logo: IMG_3700.jpg
 #theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman
+
+custom_css: styles.css
