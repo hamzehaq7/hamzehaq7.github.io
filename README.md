@@ -1,18 +1,21 @@
 # <span style="color:#004d7a;">Hamzeh Abu Qamar</span>
 
-![Profile Picture](IMG_3700.jpg)
+<p align="center">
+  <img src="IMG_3700.jpg" alt="Profile Picture" width="200">
+</p>
 
 ---
 
-## <span style="color:#008793;">Welcome to My Page, Enjoy!</span>
+## <span style="color:#008793; text-align: center; display: block;">Welcome to My Page, Enjoy!</span>
 
 <p style="text-align: justify;">
 Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Master's in Technology Innovation and Entrepreneurship at KAUST. His academic excellence and innovative mindset have earned him the IEEE Undergraduate Research Scholarship and the prestigious MBZ Scholarship at NYU Abu Dhabi. A passionate advocate for sustainability, Hamzeh represented Masdar’s Youth 4 Sustainability program at COP28, actively engaging in high-level discussions on global environmental issues. As an aspiring entrepreneur, he aims to leverage AI and ML to address sustainability challenges in the GCC region.
 </p>
 
-<a href="HamzehAbuQamarCV.pdf" style="color:#ffffff; background-color:#008793; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold;">Download My CV</a>
-
-<a href="#gallery" style="color:#ffffff; background-color:#004d7a; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold; margin-left: 10px;">Go to Gallery</a>
+<p align="center">
+  <a href="HamzehAbuQamarCV.pdf" style="color:#ffffff; background-color:#008793; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold; margin-right: 10px;">Download My CV</a>
+  <a href="#gallery" style="color:#ffffff; background-color:#004d7a; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold;">Go to Gallery</a>
+</p>
 
 ---
 
