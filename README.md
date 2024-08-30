@@ -1,4 +1,4 @@
-# Hamzeh Abu Qamar - Portfolio
+# Hamzeh Abu Qamar
 
 ## Welcome to my page, enjoy!
 
