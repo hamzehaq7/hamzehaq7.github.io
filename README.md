@@ -75,6 +75,11 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 </p>
 
 <p align="center">
+  <img src="Gallery/sultan.jpg" width=auto />
+  <br><span style="color:#004d7a;">Picture with HE Dr. Sultan Al Jaber, CEO of ADNOC</span>
+</p>
+
+<p align="center">
   <img src="Gallery/albania.jpg" width="200" />
   <br><span style="color:#004d7a;">Meeting with HE Bora Muzhaqi, Youth Minister of Albani</span>
 </p>
