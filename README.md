@@ -71,47 +71,47 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 <p align="center">
   <img src="Gallery/sultan.jpg" width="200" />
-  <br><span style="color:#004d7a;">Sultan's Portrait</span>
+  <br><span style="color:#004d7a;">Picture with HE Dr. Sultan Al Jaber, CEO of ADNOC</span>
 </p>
 
 <p align="center">
   <img src="Gallery/albania.jpg" width="200" />
-  <br><span style="color:#004d7a;">Scenic View in Albania</span>
+  <br><span style="color:#004d7a;">Meeting with HE Bora Muzhaqi, Youth Minister of Albani</span>
 </p>
 
 <p align="center">
   <img src="Gallery/boris.jpg" width="200" />
-  <br><span style="color:#004d7a;">Meeting with Boris</span>
+  <br><span style="color:#004d7a;">Workshop with Boris Johnson, former PM of UK</span>
 </p>
 
 <p align="center">
   <img src="Gallery/cop28.jpg" width="200" />
-  <br><span style="color:#004d7a;">At COP28 Conference</span>
+  <br><span style="color:#004d7a;">Presenting hackathon results to HE Sara Al Amiri, UAE's Education Minister, at COP28</span>
 </p>
 
 <p align="center">
   <img src="Gallery/eucnc.jpeg" width="200" />
-  <br><span style="color:#004d7a;">EU-CNC Event</span>
+  <br><span style="color:#004d7a;">Presenting conference paper at EuCNC conference in Antwerp, Belgium</span>
 </p>
 
 <p align="center">
   <img src="Gallery/finance.jpg" width="200" />
-  <br><span style="color:#004d7a;">Finance Seminar</span>
+  <br><span style="color:#004d7a;">Won 1st place at the Dubai Dept. of Finance's AI Hackathon</span>
 </p>
 
 <p align="center">
   <img src="Gallery/muscat.jpeg" width="200" />
-  <br><span style="color:#004d7a;">Muscat Trip</span>
+  <br><span style="color:#004d7a;">Presenting research findings in student gathering in Muscat, Oman</span>
 </p>
 
 <p align="center">
   <img src="Gallery/pwc.jpg" width="200" />
-  <br><span style="color:#004d7a;">With PwC Team</span>
+  <br><span style="color:#004d7a;">Participated in a climate fresk with PwC at COP28</span>
 </p>
 
 <p align="center">
   <img src="Gallery/ses.jpeg" width="200" />
-  <br><span style="color:#004d7a;">SES Workshop</span>
+  <br><span style="color:#004d7a;">Delegate at the Student Energy Summit at New York University Abu Dhabi</span>
 </p>
 
 ---
