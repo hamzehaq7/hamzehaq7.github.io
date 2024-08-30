@@ -70,15 +70,22 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 ## <span style="color:#004d7a;" id="gallery">Gallery</span>
 
 <p align="center">
-  <img src="path/to/image1.jpg" width="200" />
-  <img src="path/to/image2.jpg" width="200" />
-  <img src="path/to/image3.jpg" width="200" />
+  <img src="Gallery/ablyai.jpg" width="200" />
+  <img src="Gallery/albania" width="200" />
+  <img src="Gallery/boris.jpg" width="200" />
 </p>
 
 <p align="center">
-  <img src="path/to/image4.jpg" width="200" />
-  <img src="path/to/image5.jpg" width="200" />
-  <img src="path/to/image6.jpg" width="200" />
+  <img src="Gallery/cop28.jpg" width="200" />
+  <img src="Gallery/eucnc.jpg" width="200" />
+  <img src="Gallery/finance.jpg" width="200" />
+</p>
+
+<p align="center">
+  <img src="Gallery/muscat.jpg" width="200" />
+  <img src="Gallery/pwc.jpg" width="200" />
+  <img src="Gallery/ses.jpg" width="200" />
+  <img src="Gallery/sultan.jpg" width="200" />
 </p>
 
 ---
