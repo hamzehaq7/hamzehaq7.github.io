@@ -12,7 +12,7 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 
 <p align="center">
   <a href="HamzehAbuQamarCV.pdf" style="color:#ffffff; background-color:#008793; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold; margin-right: 10px;">Download My CV</a>
-  <a href="#gallery" style="color:#ffffff; background-color:#004d7a; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold; margin-right: 10px;">Go to Gallery</a>
+  <a href="#gallery" style="color:#ffffff; background-color:#004d7a; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold; margin-right: 10px;">Go To Gallery</a>
   <a href="https://www.linkedin.com/in/hamzeh-abu-qamar-034605218/" style="color:#ffffff; background-color:#0077b5; padding:10px 15px; border-radius:5px; text-decoration:none; font-weight:bold;">LinkedIn</a>
 </p>
 
@@ -44,27 +44,12 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 ---
 
-## <span style="color:#004d7a;">Certificates</span>
-
-- Cisco CCNA: Introduction to Networks
-- Google Project Management: Professional Certificate
-- IBM Data Science (soon!)
-
----
-
 ## <span style="color:#004d7a;">Hobbies & Interests</span>
 
 - **Sports:** Bodybuilding, Soccer, Volleyball
 - **Reading:** Books & forums on business, entrepreneurship, history, and politics
 - **Traveling:** Experiencing life & exposure to different cultures
 - **Investing:** Analyzing trends & active stock market investing
-
----
-
-## <span style="color:#004d7a;">Socials</span>
-
-- [LinkedIn](https://www.linkedin.com/in/hamzeh-abu-qamar-034605218/)
-- [GitHub](https://github.com/hamzehaq7)
 
 ---
 
