@@ -41,6 +41,7 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 - **Software:** MATLAB, C++
 - **Soft Skills:** Public Speaking, Critical Thinking, Leadership
 - **Business Skills:** Entrepreneurship, Project Management
+- **Languages:** English, Arabic, Chinese (basic)
 
 ---
 
