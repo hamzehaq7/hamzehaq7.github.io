@@ -36,17 +36,14 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 ## <span style="color:#004d7a;">Hackathons & Competitions</span>
 
-### TecShift Hackathon 2024
-Aramco & Lab7, Dhahran, Saudi Arabia
+### TecShift Hackathon 2024 - Aramco & Lab7, Dhahran, Saudi Arabia
 We created Solar Synergies - a blockchain platform that allows businesses to trade carbon credits. Also, using the data generated from these transactions, we 
 influence government policy decisions in the form of AI-driven insights.
 
-### Student Engineering Gathering
-#### Sultan Qaboos University, Muscat, Oman
+### Student Engineering Gathering - Sultan Qaboos University, Muscat, Oman
 I presented my senior project and simulator - SatNet SpaceSim. Also, I networked with experts in Oman's tech industry.
 
-### AI in Finance Hackathon
-#### Dept. of Finance, Dubai, UAE
+### AI in Finance Hackathon - Dept. of Finance, Dubai, UAE
 We secured first place and a 10,000 AED grant by envisioning a platform that provides & collects data on microfinancing solutions for locals. Moreover, this platform 
 uses AI algorithms to reallocate government budget and expenditure. 
 
