@@ -51,6 +51,9 @@ uses AI algorithms to reallocate government budget and expenditure.
 We secured third place by solving energy transition challenges tied to UAE’s Zero Net Emissions by 2050. By devising
 an energy mix plan, we were able to add 60GW renewable power to UAE’s grid.
 
+### Pioneers 4.0 Hackathon - Lipton Teas & Infusions, Abu Dhabi, UAE
+For 3 days, we tried to understand key logistics challenges Lipton faces. To solve this issue, we proposed a metaheuristics model to optimize real-world factory challenge: silos, lines, warehouse.
+
 ---
 
 ## <span style="color:#004d7a;">Skills</span>
