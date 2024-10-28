@@ -125,4 +125,4 @@ For 3 days, we tried to understand key logistics challenges Lipton faces. To sol
 
 ---
 
-<p style="text-align: center; color: #888888;">Last Updated: Sept. 1st, 2024</p>
+<p style="text-align: center; color: #888888;">Last Updated: Nov. 1st, 2024</p>
