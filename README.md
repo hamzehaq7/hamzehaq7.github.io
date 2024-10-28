@@ -47,6 +47,9 @@ I presented my senior project and simulator - SatNet SpaceSim. Also, I networked
 We secured first place and a 10,000 AED grant by envisioning a platform that provides & collects data on microfinancing solutions for locals. Moreover, this platform 
 uses AI algorithms to reallocate government budget and expenditure. 
 
+### Youth Sustainability Hackathon - General Electric, Dubai, UAE
+We secured third place by solving energy transition challenges tied to UAE’s Zero Net Emissions by 2050. By devising
+an energy mix plan, we were able to add 60GW renewable power to UAE’s grid.
 
 ---
 
