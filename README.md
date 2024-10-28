@@ -45,6 +45,11 @@ influence government policy decisions in the form of AI-driven insights.
 #### Sultan Qaboos University, Muscat, Oman
 I presented my senior project and simulator - SatNet SpaceSim. Also, I networked with experts in Oman's tech industry.
 
+### AI in Finance Hackathon
+#### Dept. of Finance, Dubai, UAE
+We secured first place and a 10,000 AED grant by envisioning a platform that provides & collects data on microfinancing solutions for locals. Moreover, this platform 
+uses AI algorithms to reallocate government budget and expenditure. 
+
 
 ---
 
