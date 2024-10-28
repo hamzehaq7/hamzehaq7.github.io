@@ -34,6 +34,16 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 ---
 
+## <span style="color:#004d7a;">Hackathons & Competitions</span>
+
+### TecShift Hackathon 2024
+#### Aramco & Lab7, Dhahran, Saudi Arabia
+We created Solar Synergies - a blockchain platform that allows businesses to trade carbon credits. Also, using the data generated from these transactions, we 
+influence government policy decisions in the form of AI-driven insights.
+
+
+---
+
 ## <span style="color:#004d7a;">Skills</span>
 
 - **Programming:** Python, AI, ML
