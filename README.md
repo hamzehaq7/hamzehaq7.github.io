@@ -21,20 +21,26 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 ## <span style="color:#004d7a;">Projects</span>
 
 ### Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation
-The paper is currently under review (major revisions) for MDPI Sensors journal publication.
+Conducted experiments around an artificial blood vessel to investigate the behavior of blood velocity & pressure in the presence of a clot (journal paper pending).
+The paper has been accepted for IEEE Sensors journal publication.
 
 ### Regional CubeSat Communication and Constellation Design Evaluation
-Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures. The [paper](Papers/CubeSat_IEEE%20ICM2023.pdf) has been published on IEEE Xplore.
+Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures. 
+The [paper](Papers/CubeSat_IEEE%20ICM2023.pdf) has been published on IEEE Xplore.
 
 ### SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations
-Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been published on IEEE Xplore.
+Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. \The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been published on IEEE Xplore.
 
 ### Clot Monitoring Through Electromechanical Analysis
-Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations. The [paper](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
+Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations. 
+The [paper](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
 
 ---
 
 ## <span style="color:#004d7a;">Hackathons & Competitions</span>
+
+### International Business Plan Competition 2025 - University of Illinois Urbana-Champaign hosted in Austin, Texas
+We founded startup “TagAlong” – system that uses powerbanks to charge EV semi trucks while on the move. Also, we performed a detailed revenue model, cost structure, feasibility study.
 
 ### TecShift Hackathon 2024 - Aramco & Lab7, Dhahran, Saudi Arabia
 We created Solar Synergies - a blockchain platform that allows businesses to trade carbon credits. Also, using the data generated from these transactions, we 
