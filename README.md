@@ -20,9 +20,13 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 
 ## <span style="color:#004d7a;">Projects</span>
 
-### Probing Blood Dynamics: A Novel Piezoelectric Approach to Monitor Flow and Detect Clot Formation
-Conducted experiments around an artificial blood vessel to investigate the behavior of blood velocity & pressure in the presence of a clot (journal paper pending).
-The paper has been accepted for IEEE Sensors journal publication.
+### AirGo
+Conducted 
+
+### Blood Flow Detection Using Piezoelectric Sensors
+Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors.. Conducted experiments around an artificial blood vessel to investigate the behavior of blood velocity & pressure in the presence of a clot.
+[Blood Flow Detection Using Piezoelectric Sensors](https://ieeexplore.ieee.org/document/10810278/metrics#metrics) has been published on IEEE Sensors journal.
+[Clot Monitoring Through Electromechanical Analysis](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
 
 ### Regional CubeSat Communication and Constellation Design Evaluation
 Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures. 
