@@ -21,22 +21,34 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 ## <span style="color:#004d7a;">Projects</span>
 
 ### AirGo
-Conducted 
+Developed air quality monitoring system prototype & are currently looking to commercialize the technology.
+
+### CCX: Carbon Credit Exchange
+Proposed a framework that helps (1) businesses trade carbon credits more seamlessly and (2) governments implement policies related to its Net Zero strategies. 
+
+Hoping to partner with PIF's [VCM](https://vcm.sa/en/) and/or Mr. [Scott Pruitt](https://ballotpedia.org/Scott_Pruitt), former US EPA administrator.
+
 
 ### Blood Flow Detection Using Piezoelectric Sensors
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors.. Conducted experiments around an artificial blood vessel to investigate the behavior of blood velocity & pressure in the presence of a clot.
+
 [Blood Flow Detection Using Piezoelectric Sensors](https://ieeexplore.ieee.org/document/10810278/metrics#metrics) has been published on IEEE Sensors journal.
+
 [Clot Monitoring Through Electromechanical Analysis](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
 
 ### Regional CubeSat Communication and Constellation Design Evaluation
 Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures. 
+
 The [paper](Papers/CubeSat_IEEE%20ICM2023.pdf) has been published on IEEE Xplore.
 
 ### SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations
-Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. \The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been published on IEEE Xplore.
+Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. 
+
+The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been published on IEEE Xplore.
 
 ### Clot Monitoring Through Electromechanical Analysis
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations. 
+
 The [paper](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
 
 ---
