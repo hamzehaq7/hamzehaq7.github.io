@@ -34,22 +34,14 @@ Proposed a novel approach to detect the existence of a blood clot inside a vesse
 
 [Blood Flow Detection Using Piezoelectric Sensors](https://ieeexplore.ieee.org/document/10810278/metrics#metrics) has been published on IEEE Sensors journal.
 
-[Clot Monitoring Through Electromechanical Analysis](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
+[Clot Monitoring Through Electromechanical Analysis](https://ieeexplore.ieee.org/document/10449743) has been presented in the 11th IEEE International Conference on Systems and Control (ICSC) in Sousse, Tunisia and published on IEEE Xplore.
 
-### Regional CubeSat Communication and Constellation Design Evaluation
-Created a simulator of small satellite constellations that will, in advance of their deployment, serve as a proactive measure to mitigate potential issues and curtail the risk of costly satellite failures. 
+### CubeSat Communication 
+Created a simulator & GUI to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. 
 
-The [paper](Papers/CubeSat_IEEE%20ICM2023.pdf) has been published on IEEE Xplore.
+[Regional CubeSat Communication & Constellation Design Evaluation](https://ieeexplore.ieee.org/abstract/document/10378915) has been presented in the 2023 International Conference on Microelectronics (ICM) in Abu Dhabi, UAE and published on IEEE Xplore.
 
-### SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations
-Introduced SatNet SpaceSim, a simulator and a graphical user interface developed to analyze the performance of communication links and coverage of small satellite constellations before deployment. This aims to detect and address potential issues proactively, reducing the risk of costly satellite malfunctions. 
-
-The [paper](Papers/SatNetSpaceSim_EuCNC24.pdf) has been published on IEEE Xplore.
-
-### Clot Monitoring Through Electromechanical Analysis
-Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors. The developed model also allows us to determine the vessel radius and the velocity of the blood at different locations. 
-
-The [paper](Papers/Clot%20Monitoring_IEEE%20ICSC2023.pdf) has been published on IEEE Xplore.
+[SatNet SpaceSim: A Platform for Performance Analysis of Small Satellites Mega-Constellations](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597066) has been presented in the 2024 EuCNC/6G Summit in Antwerp, Belgium and published on IEEE Xplore.
 
 ---
 
