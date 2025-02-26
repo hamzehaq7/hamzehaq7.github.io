@@ -23,12 +23,6 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 ### AirGo
 Developed air quality monitoring system prototype & are currently looking to commercialize the technology.
 
-### CCX: Carbon Credit Exchange
-Proposed a framework that helps (1) businesses trade carbon credits more seamlessly and (2) governments implement policies related to its Net Zero strategies. 
-
-Hoping to partner with PIF's [VCM](https://vcm.sa/en/) and/or Mr. [Scott Pruitt](https://ballotpedia.org/Scott_Pruitt), former US EPA administrator.
-
-
 ### Blood Flow Detection Using Piezoelectric Sensors
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors.. Conducted experiments around an artificial blood vessel to investigate the behavior of blood velocity & pressure in the presence of a clot.
 
@@ -139,4 +133,4 @@ For 3 days, we tried to understand key logistics challenges Lipton faces. To sol
 
 ---
 
-<p style="text-align: center; color: #888888;"> Last Updated: Feb. 1st, 2025</p>
+<p style="text-align: center; color: #888888;"> Last Updated: March 1st, 2025</p>
