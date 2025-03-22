@@ -26,7 +26,7 @@ Now, as an aspiring entrepreneur, Hamzeh is channeling his expertise into AirGoâ
 ### AirGo: Climate Solutions Startup
 We have developed an air quality monitoring prototype with Prof. Khaled Salama.
 
-Currently, we are currently looking to validate the product with potential customers before incubation at Shenzhen InnoX Academy in June.
+Currently, we are currently looking to validate the product with potential customers before startup incubation at [Shenzhen InnoX Academy](https://en.innoxsz.com/) in June 2025.
 
 Navigate to our website: [AirGo Website](https://airgo.live)
 
