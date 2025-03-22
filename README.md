@@ -7,7 +7,10 @@
 ## <span style="color:#008793; text-align: center; display: block;">Welcome to My Page, Enjoy!</span>
 
 <p style="text-align: justify;">
-Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Master's in Technology Innovation and Entrepreneurship at KAUST. His academic excellence and innovative mindset have earned him the IEEE Undergraduate Research Scholarship and the prestigious MBZ Scholarship at NYU Abu Dhabi. A passionate advocate for sustainability, Hamzeh represented Masdar’s Youth 4 Sustainability program at COP28, actively engaging in high-level discussions on global environmental issues. As an aspiring entrepreneur, he aims to leverage AI and ML to address sustainability challenges in the GCC region.
+Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Master's in Technology Innovation and Entrepreneurship at KAUST. His work ethic allowed him to participate in the IEEE Undergraduate Research Scholarship, MBZ Scholarship at NYU Abu Dhabi, Youth 4 Sustainability at Masdar, and many more opportunities.
+
+As an aspiring entrepreneur, he is currently working on a startup called AirGo - a climate solutions company (more in the section below).
+
 </p>
 
 <p align="center">
@@ -20,9 +23,11 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 
 ## <span style="color:#004d7a;">Projects</span>
 
-### AirGo
-Startup in air quality monitoring. We have developed a prototype with Prof. Khaled Salama.
-We are currently looking to commercialize the technology.
+### AirGo: Climate Solutions Startup
+We have developed an air quality monitoring prototype with Prof. Khaled Salama.
+
+Currently, we are currently looking to validate the product with potential customers before incubation at Shenzhen InnoX Academy in June.
+
 Navigate to our website: [AirGo Website](https://airgo.live)
 
 ### Blood Flow Detection Using Piezoelectric Sensors
