@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gallery/Headshot_WFES.jpg" alt="Profile Picture" width="400">
+  <img src="Gallery/Headshot_KAUST.jpg" alt="Profile Picture" width="400">
 </p>
 
 ---
@@ -21,7 +21,9 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 ## <span style="color:#004d7a;">Projects</span>
 
 ### AirGo
-Developed air quality monitoring system prototype & are currently looking to commercialize the technology.
+Startup in air quality monitoring. We have developed a prototype with Prof. Khaled Salama.
+We are currently looking to commercialize the technology.
+Navigate to our website: [AirGo Website](https://airgo.live)
 
 ### Blood Flow Detection Using Piezoelectric Sensors
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors.. Conducted experiments around an artificial blood vessel to investigate the behavior of blood velocity & pressure in the presence of a clot.
