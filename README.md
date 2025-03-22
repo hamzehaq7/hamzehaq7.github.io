@@ -7,9 +7,9 @@
 ## <span style="color:#008793; text-align: center; display: block;">Welcome to My Page, Enjoy!</span>
 
 <p style="text-align: justify;">
-Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Master's in Technology Innovation and Entrepreneurship at KAUST. His work ethic allowed him to participate in the IEEE Undergraduate Research Scholarship, MBZ Scholarship at NYU Abu Dhabi, Youth 4 Sustainability at Masdar, and many more opportunities.
+Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Master's in Technology Innovation and Entrepreneurship at KAUST. His dedication to innovation and sustainability has earned him prestigious opportunities, including the IEEE Undergraduate Research Scholarship, the Mohamed Bin Zayed Scholarship at NYU Abu Dhabi, and participation in COP28 and Masdar’s Youth 4 Sustainability program.
 
-As an aspiring entrepreneur, he is currently working on a startup called AirGo - a climate solutions company (more in the section below).
+Now, as an aspiring entrepreneur, Hamzeh is channeling his expertise into AirGo—a climate solutions company pioneering sustainable technologies. (More details below.)
 
 </p>
 
