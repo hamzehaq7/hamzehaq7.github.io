@@ -28,7 +28,7 @@ We have developed an air quality monitoring prototype with Prof. Khaled Salama.
 
 Currently, we are currently looking to validate the product with potential customers before startup incubation at [Shenzhen InnoX Academy](https://en.innoxsz.com/) in June 2025.
 
-Navigate to our website: [AirGo Website](https://airgo.live)
+Navigate to our website: [AirGo Website](https://airgo.cloud)
 
 ### Blood Flow Detection Using Piezoelectric Sensors
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors.. Conducted experiments around an artificial blood vessel to investigate the behavior of blood velocity & pressure in the presence of a clot.
@@ -73,9 +73,8 @@ For 3 days, we tried to understand key logistics challenges Lipton faces. To sol
 
 ## <span style="color:#004d7a;">Skills</span>
 
-- **Programming:** Python, AI, ML
-- **Hardware:** Raspberry Pi, Arduino
-- **Software:** MATLAB, C++
+- **Software:** Python, C++, SystemVerilog (FPGA), HTML, CSS, JavaScript
+- **Hardware:** Raspberry Pi, Arduino, ESP32
 - **Soft Skills:** Public Speaking, Critical Thinking, Leadership
 - **Business Skills:** Entrepreneurship, Project Management
 - **Languages:** English, Arabic, Chinese (basic)
@@ -140,4 +139,4 @@ For 3 days, we tried to understand key logistics challenges Lipton faces. To sol
 
 ---
 
-<p style="text-align: center; color: #888888;"> Last Updated: March 1st, 2025</p>
+<p style="text-align: center; color: #888888;"> Last Updated: June 1st, 2025</p>
