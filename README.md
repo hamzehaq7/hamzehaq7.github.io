@@ -29,7 +29,7 @@ Traction is speeding up: Vibe-coded the platform in Aug & Sept. Launched in Oct.
 
 Upon speaking to users, we decided to pivot and will relaunch the platform in Mid-Nov.
 
-Navigate to the link to visit our platform: [VIBE]([https://ieeexplore.ieee.org/document/10810278/metrics#metrics](https://vibe-investing.onrender.com/).
+Navigate to the link to visit our platform: [VIBE]([https://ieeexplore.ieee.org/document/10810278/metrics#metrics](https://vibe-investing.onrender.com/)).
 
 
 ### AirGo: Climate Solutions Startup
