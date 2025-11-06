@@ -7,9 +7,8 @@
 ## <span style="color:#008793; text-align: center; display: block;">Welcome to My Page, Enjoy!</span>
 
 <p style="text-align: justify;">
-Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Master's in Technology Innovation and Entrepreneurship at KAUST. His dedication to innovation and sustainability has earned him prestigious opportunities, including the IEEE Undergraduate Research Scholarship, the Mohamed Bin Zayed Scholarship at NYU Abu Dhabi, and participation in COP28 and Masdar’s Youth 4 Sustainability program.
   
-Now, as an aspiring entrepreneur, Hamzeh is channeling his expertise into AirGo—a climate solutions company pioneering sustainable technologies. (More details below.)
+Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Master's in Technology Innovation and Entrepreneurship at KAUST. His academic excellence and innovative mindset have earned him multiple research project, youth development initiatives, and scholarship programs. As an aspiring entrepreneur, he is building a thiriving community at VIBE - for investors, traders, and entrepreneurs.
 
 </p>
 
@@ -23,12 +22,18 @@ Now, as an aspiring entrepreneur, Hamzeh is channeling his expertise into AirGo�
 
 ## <span style="color:#004d7a;">Projects</span>
 
+### VIBE
+We are building an AI-driven community platform for investors, traders, and entrepreneurs.
+
+Traction is speeding up: Vibe-coded the platform in Aug & Sept. Launched in Oct. To date, 130 users and growing fast in a month.
+
+Upon speaking to users, we decided to pivot and will relaunch the platform in Mid-Nov.
+
+Navigate to the link to visit our platform: [VIBE]([https://ieeexplore.ieee.org/document/10810278/metrics#metrics](https://vibe-investing.onrender.com/).
+
+
 ### AirGo: Climate Solutions Startup
-We have developed an air quality monitoring prototype with Prof. Khaled Salama.
-
-Currently, we are currently looking to validate the product with potential customers before startup incubation at [Shenzhen InnoX Academy](https://en.innoxsz.com/) in June 2025.
-
-Navigate to our website: [AirGo Website](https://airgo.cloud)
+We have developed an air quality monitoring prototype with Prof. Khaled Salama and incubated at [Shenzhen InnoX Academy](https://en.innoxsz.com/) from June - November 2025.
 
 ### Blood Flow Detection Using Piezoelectric Sensors
 Proposed a novel approach to detect the existence of a blood clot inside a vessel utilizing piezoelectric sensors.. Conducted experiments around an artificial blood vessel to investigate the behavior of blood velocity & pressure in the presence of a clot.
@@ -139,4 +144,4 @@ For 3 days, we tried to understand key logistics challenges Lipton faces. To sol
 
 ---
 
-<p style="text-align: center; color: #888888;"> Last Updated: June 1st, 2025</p>
+<p style="text-align: center; color: #888888;"> Last Updated: Nov. 1st, 2025</p>
