@@ -20,7 +20,7 @@ Hamzeh Abu Qamar is an Electrical Engineering graduate currently pursuing a Mast
 
 ---
 
-## <span style="color:#004d7a;">Projects</span>
+## <span style="color:#004d7a;">Startups</span>
 
 ### VIBE
 We are building an AI-driven community platform for investors, traders, and entrepreneurs.
@@ -31,6 +31,7 @@ Upon speaking to users, we decided to pivot and will relaunch the platform in Mi
 
 Navigate to the link to visit our platform: [VIBE]([https://ieeexplore.ieee.org/document/10810278/metrics#metrics](https://vibe-investing.onrender.com/)).
 
+## <span style="color:#004d7a;">Projects</span>
 
 ### AirGo: Climate Solutions Startup
 We have developed an air quality monitoring prototype with Prof. Khaled Salama and incubated at [Shenzhen InnoX Academy](https://en.innoxsz.com/) from June - November 2025.
